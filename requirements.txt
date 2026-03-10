@@ -1,0 +1,5 @@
+fastapi==0.109.0
+python-multipart==0.0.6
+torch>=2.1.0
+openai-whisper
+uvicorn==0.27.0
